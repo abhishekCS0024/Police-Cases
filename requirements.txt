@@ -1,0 +1,7 @@
+pinecone>=3.0.0
+groq>=0.9.0
+sentence-transformers>=2.2.2
+python-dotenv>=1.0.0
+pandas>=2.0.0
+
+langchain_huggingface>=0.1.0
